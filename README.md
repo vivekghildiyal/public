@@ -1,0 +1,2 @@
+# glozara
+Netlify redirect
