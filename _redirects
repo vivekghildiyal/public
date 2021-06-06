@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://glozara.com/*"
+  to = "https://www.glozara.com/"
+  status = 301
+  force = true
