@@ -1,2 +1,2 @@
-# glozara
+# public
 Netlify redirect
